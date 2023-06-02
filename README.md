@@ -25,9 +25,20 @@ SCRUM TEAM, João Pedro dos Santos Ortiz.
 <div align="right">
 
  <div align="right">
-<img src="https://user-images.githubusercontent.com/101893127/165876236-a8f7a526-57c3-49b3-862f-cc7ed284b83e.jpg](https://github.com/Cleison519/API-FATEC-AERNNOVA/assets/101893127/816d6399-f4f9-48b4-b6ea-bc773563dcd8" width="150px" />
+<img src="https://github.com/Cleison519/API-FATEC-AERNNOVA/assets/101893127/816d6399-f4f9-48b4-b6ea-bc773563dcd8" width="250px" />
 </div>
 <div align="right">
 SCRUM TEAM, Mateus Santos Oliveira. 
-  
+
+ <div align="left">
+<img src="https://github.com/Cleison519/API-FATEC-AERNNOVA/assets/101893127/475b3ea9-f742-432f-843c-576a5b1ec55c" width="250px" />
+</div>
+<div align="left">
+SCRUM TEAM, Pedro Augusto .
+ <div align="right">
+<img src="https://github.com/Cleison519/API-FATEC-AERNNOVA/assets/101893127/290dae74-1872-4dcb-867d-310049e14981" width="250px" />
+</div>
+<div align="right">
+SCRUM TEAM, Marco Antonio Campos. 
+ 
 
